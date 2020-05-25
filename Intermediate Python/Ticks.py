@@ -12,7 +12,7 @@
 #100 XP
 #Use tick_val and tick_lab as inputs to the xticks() function to make the the plot more readable.
 #As usual, display the plot with plt.show() after you've added the customizations.
-#Code::
+Code::
 ---
 # Scatter plot
 plt.scatter(gdp_cap, life_exp)

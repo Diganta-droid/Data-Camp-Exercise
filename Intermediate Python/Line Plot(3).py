@@ -11,7 +11,7 @@
 #100 XP
 #Build a line chart, with gdp_cap on the x-axis, and life_exp on the y-axis. Does it make sense to plot this data on a line plot?
 #Don't forget to finish off with a plt.show() command, to actually display the plot.
-Script.py::
+Code::
 # Print the last item of gdp_cap and life_exp
 print(gdp_cap[-1])
 print(life_exp[-1])

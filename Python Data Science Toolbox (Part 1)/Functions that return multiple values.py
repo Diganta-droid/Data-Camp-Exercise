@@ -26,9 +26,7 @@ def shout_all(word1, word2):
     return shout_words
 
 # Pass 'congratulations' and 'you' to shout_all(): , yell2
-yell1 = 'congratulations'
-yell2 = 'you'
-shout_all(yell1, yell2)
+yell1, yell2 = shout_all('congratulations', 'you')
 
 # Print yell1 and yell2
 print(yell1)
